@@ -14,5 +14,6 @@ About 51.1% of vine reviews were 5 stars. About 38.7% of non-vine reviews were 5
 
 ![percentage_analysis](https://github.com/WTAN241/Amazon_Vine_Analysis/blob/main/Resources/percentage_analysis.PNG)
 
-
+## Summary
+The vine program reviews are biased since the percentage of positive reviews were more likely to be vine reviews instead of non-vine reviews.
 
